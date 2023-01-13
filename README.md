@@ -9,7 +9,7 @@ I'm Brad Eagle!
 
 <h2>I'm Currently workng on</h2>
 
-- Parsing most markup languages [Bencode](https://github.com/DrBrad/Bencode), [Yamler](https://github.com/DrBrad/Yamler), [Json](https://github.com/DrBrad/Json) [Xml](https://github.com/DrBrad/Xml)
+- Parsing most markup languages [Bencode](https://github.com/DrBrad/Bencode), [Yamler](https://github.com/DrBrad/Yamler), [Json](https://github.com/DrBrad/Json), & [Xml](https://github.com/DrBrad/Xml)
 - Building a simple plugin java based web server similar to Minecraft Bukkit & Apache2
 - [Kad3](https://github.com/DrBrad/Kad3) for torrenting and later on onion DHT system
 - Solid web template shop for PHP-FPM apache2
