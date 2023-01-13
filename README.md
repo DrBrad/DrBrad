@@ -4,7 +4,7 @@
 
 
 I'm Brad Eagle! 
-- <i>Currently:</i> Founder of Ammo Recycling Inc. & Uncentralized
+- <i>Currently:</i> Founder of (https://ammorecycling.com)[Ammo Recycling Inc]. & (https://uncentralized.com)[Uncentralized]
 - <i>Previously:</i> Full Stack Software Engineer at Yellow
 
 <h2>I'm Currently workng on</h2>
