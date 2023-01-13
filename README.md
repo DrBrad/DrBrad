@@ -1,6 +1,6 @@
 <h2>Hey! 👋</h2>
 
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=DrBrad.DrBrad)](https://github.com/DrBrad) [![GitHub followers](https://img.shields.io/github/followers/laxmena.svg?style=social&label=Follow)](https://github.com/DrBrad?tab=followers)
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=DrBrad.DrBrad)](https://github.com/DrBrad) [![GitHub followers](https://img.shields.io/github/followers/DrBrad.svg?style=social&label=Follow)](https://github.com/DrBrad?tab=followers)
 
 
 
