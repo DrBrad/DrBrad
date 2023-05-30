@@ -8,17 +8,13 @@ I'm Brad Eagle!
 - <i>Previously:</i> Full Stack Software Engineer at Yellow
 
 <h2>Parsing Libraries I have made</h2>
-- [Bencode](https://github.com/DrBrad/Bencode), [BencodeJS](https://github.com/DrBrad/BencodeJS), [BencodePHP](https://github.com/DrBrad/BencodePHP)
-
+- [Bencode](https://github.com/DrBrad/Bencode) [BencodeJS](https://github.com/DrBrad/BencodeJS) [BencodePHP](https://github.com/DrBrad/BencodePHP)
 - [Json](https://github.com/DrBrad/Json)
-
 - [Yamler](https://github.com/DrBrad/Yamler)
-
 - [Xml](https://github.com/DrBrad/Xml)
 
 <h2>VPN apps for android</h2>
 - [VPN to Socket](https://github.com/DrBrad/Android-VPN-to-Socket)
-
 - [JTun2Socks](https://github.com/DrBrad/JTun2Socks)
 
 <h2>DHT Decentralization</h2>
