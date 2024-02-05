@@ -1,10 +1,10 @@
 <h2>Hey! 👋</h2>
 
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=drbrad&layout=compact&langs_count=100&theme=dark)](https://github.com/DrBrad)
-
 I'm Brad Eagle! 
 - <i>Currently:</i> Founder of [LimeReel Inc.](https://limereel.com) & [Uncentralized](https://uncentralized.com)
 - <i>Previously:</i> Full Stack Software Engineer at Yellow
+
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=drbrad&layout=compact&langs_count=100&theme=dark)](https://github.com/DrBrad)
 
 Parsing Libraries I have made
 -----
