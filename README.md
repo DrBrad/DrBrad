@@ -19,9 +19,11 @@ Parsing Libraries I have made
 | YAML    | [Yamler](https://github.com/DrBrad/Yamler)         |
 | XML     | [Xml](https://github.com/DrBrad/Xml)               |
 
-<h2>VPN apps for android</h2>
+VPN apps for android
+-----
 - VPN to Socket [VPN to Socket](https://github.com/DrBrad/Android-VPN-to-Socket)
 - Tunnel to Socks [JTun2Socks](https://github.com/DrBrad/JTun2Socks)
 
-<h2>DHT Decentralization</h2>
+DHT Decentralization
+-----
 - [Kad3](https://github.com/DrBrad/Kad3) for torrenting and later on onion DHT system
