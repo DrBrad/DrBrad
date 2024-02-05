@@ -9,9 +9,9 @@ I'm Brad Eagle!
 - <i>Previously:</i> Full Stack Software Engineer at Yellow
 
 <h2>Parsing Libraries I have made</h2>
-| Parsing | Link                                               |
-| ---     | ---                                                |
-| hi      | as                                                 |
+| Parsing | Link |
+| ---     | ---  |
+| hi      | as   |
 
 <h2>VPN apps for android</h2>
 - VPN to Socket [VPN to Socket](https://github.com/DrBrad/Android-VPN-to-Socket)
