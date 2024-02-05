@@ -2,7 +2,7 @@
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=DrBrad.DrBrad)](https://github.com/DrBrad) [![GitHub followers](https://img.shields.io/github/followers/DrBrad.svg?style=social&label=Follow)](https://github.com/DrBrad?tab=followers)
 
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=drbrad&layout=compact&langs_count=100&theme=dark)]
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=drbrad&layout=compact&langs_count=100&theme=dark)](https://github.com/DrBrad)
 
 I'm Brad Eagle! 
 - <i>Currently:</i> Founder of [Ammo Recycling Inc.](https://ammorecycling.com) & [Uncentralized](https://uncentralized.com)
