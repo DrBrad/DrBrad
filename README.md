@@ -5,12 +5,12 @@
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=drbrad&layout=compact&langs_count=100&theme=dark)](https://github.com/DrBrad)
 
 I'm Brad Eagle! 
-- <i>Currently:</i> Founder of [Ammo Recycling Inc.](https://ammorecycling.com) & [Uncentralized](https://uncentralized.com)
+- <i>Currently:</i> Founder of [LimeReel Inc.](https://limereel.com) & [Uncentralized](https://uncentralized.com)
 - <i>Previously:</i> Full Stack Software Engineer at Yellow
 
 <h2>Parsing Libraries I have made</h2>
 | Parsing  | Link |
-| ------------- | ------------- |
+| --- | --- |
 | Bencode | [Bencode](https://github.com/DrBrad/Bencode) |
 | Bencode | [BencodeJS](https://github.com/DrBrad/BencodeJS) |
 | Bencode | [BencodePHP](https://github.com/DrBrad/BencodePHP) |
