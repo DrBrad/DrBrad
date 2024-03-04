@@ -25,3 +25,4 @@ VPN apps for android
 DHT Decentralization
 -----
 - [Kad3](https://github.com/DrBrad/Kad3) for torrenting and later on onion DHT system
+- [JChord](https://github.com/DrBrad/JChord) Chord implementation over TCP
