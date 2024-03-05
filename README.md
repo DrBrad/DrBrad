@@ -24,5 +24,5 @@ VPN apps for android
 
 DHT Decentralization
 -----
-- [Kad3](https://github.com/DrBrad/Kad3) for torrenting and later on onion DHT system
+- [Kad4](https://github.com/DrBrad/Kad4) Kademlia DHT compatible with BitTorrent protocol that uses Java Reflect
 - [JChord](https://github.com/DrBrad/JChord) Chord implementation over TCP
