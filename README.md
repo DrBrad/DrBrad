@@ -11,6 +11,7 @@ Parsing Libraries I have made
 | Parsing | Link                                               |
 | ---     | ---                                                |
 | Bencode | [Bencode](https://github.com/DrBrad/Bencode)       |
+| Bencode | [BencodeRust](https://github.com/DrBrad/BencodeRust)   |
 | Bencode | [BencodeJS](https://github.com/DrBrad/BencodeJS)   |
 | Bencode | [BencodePHP](https://github.com/DrBrad/BencodePHP) |
 | JSON    | [Json](https://github.com/DrBrad/Json)             |
