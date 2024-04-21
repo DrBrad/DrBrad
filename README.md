@@ -1,4 +1,4 @@
-<h2>Hey! 👋</h2>
+<h2>Hey! 🐙</h2>
 
 I'm Brad Eagle! 
 - <i>Currently:</i> Founder of [LimeReel Inc.](https://limereel.com) & [Uncentralized](https://uncentralized.com)
