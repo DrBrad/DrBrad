@@ -5,7 +5,8 @@ I'm Brad Eagle!
 - <i>Previously:</i> Full Stack Software Engineer at Yellow
 
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=drbrad&layout=compact&langs_count=100&theme=dark)](https://github.com/DrBrad)
-[![Stats]](https://github-readme-streak-stats.herokuapp.com/?user=DrBrad&theme=gruvbox&hide_border=true)
+
+[![Stats](https://github-readme-streak-stats.herokuapp.com/?user=DrBrad&theme=gruvbox&hide_border=true)][https://github.com/DrBrad]
 
 Parsing Libraries I have made
 -----
