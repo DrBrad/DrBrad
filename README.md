@@ -27,5 +27,11 @@ VPN apps for android
 
 DHT Decentralization
 -----
-- [Kad4](https://github.com/DrBrad/Kad4) Kademlia DHT compatible with BitTorrent protocol that uses Java Reflect
+- [rlibdht](https://github.com/sectorrent/rlibdht) Kademlia DHT compatible with BitTorrent protocol that uses Rust
+- [jlibdht](https://github.com/sectorrent/jlibdht) Kademlia DHT compatible with BitTorrent protocol that uses Java Reflect
+
+- [rKad4](https://github.com/DrBrad/rKad4) [ARCHIVE] Kademlia DHT compatible with BitTorrent protocol that uses Rust
+- [Kad4](https://github.com/DrBrad/Kad4) [ARCHIVE] Kademlia DHT compatible with BitTorrent protocol that uses Java Reflect
+- [Kad3](https://github.com/DrBrad/Kad3) [ARCHIVE] Kademlia DHT compatible with BitTorrent protocol that uses Java
+- [Kad2-TCP](https://github.com/DrBrad/Kad2-TCP) [ARCHIVE] Kademlia DHT compatible with BitTorrent protocol that uses Java - with TCP (NOT UDP)
 - [JChord](https://github.com/DrBrad/JChord) Chord implementation over TCP
