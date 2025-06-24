@@ -1,7 +1,7 @@
 <h2>Hey! 🐙</h2>
 
 I'm Brad Eagle! 
-- <i>Currently:</i> Founder of [LimeReel LLC](https://limereel.com) & [Uncentralized](https://sectorrent.com)
+- <i>Currently:</i> Founder of [LimeReel LLC](https://limereel.com) & [SecTorrent](https://sectorrent.com)
 - <i>Previously:</i> Full Stack Software Engineer at Yellow
 
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=drbrad&layout=compact&langs_count=100&theme=dark)](https://github.com/DrBrad)
